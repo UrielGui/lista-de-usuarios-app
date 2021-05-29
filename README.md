@@ -1,5 +1,5 @@
 # APP - User List
-Mobile application that allows you to view, create and edit users from a given list.
+Mobile application that allows you to view, create and edit users from a given list
 
 ![APP - User List](https://i.imgur.com/5bA7uqT.gif)
 
